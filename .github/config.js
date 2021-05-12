@@ -1,5 +1,6 @@
-module.exports = {
-    endpoint: 'https://api.github.com/repos/',
+
+  module.exports = {
+    endpoint: 'https://api.github.com/',
     token: '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',
     platform: 'github',
     logLevel: 'debug',
@@ -7,4 +8,10 @@ module.exports = {
       extends: ['config:base'],
     },
     repositories: ['Soumi7/renovate-docker'],
+    renovateFork: true,
+    gitAuthor: "Soumi7 <soumibardhan10@gmail.com>",
+    username: "Soumi7",
+    onboarding: false,
+    printConfig: true,
+    requireConfig: false,
   };
