@@ -9,7 +9,7 @@
     },
     repositories: ['Soumi7/renovate-docker'],
     renovateFork: true,
-    gitAuthor: "Soumi7 <soumibardhan10@gmail.com>",
+    gitAuthor: "Soumi Bardhan <soumibardhan10@gmail.com>",
     username: "Soumi7",
     onboarding: false,
     printConfig: true,
