@@ -1,7 +1,7 @@
 
   module.exports = {
     endpoint: 'https://api.github.com/',
-    token: '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',
+    token: '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',
     platform: 'github',
     logLevel: 'debug',
     onboardingConfig: {
